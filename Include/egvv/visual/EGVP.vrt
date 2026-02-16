@@ -1,0 +1,16 @@
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
+[HELI WEST]
+EGVP1;HURST GATE;HURST GATE;
+EGVP1;N051.08.53.000;W001.34.19.000;
+
+[HELI EAST]
+EGVP2;GREAT WOOD;GREAT WOOD;
+EGVP2;N051.08.57.000;W001.33.42.000;
+
+[HELI SOUTH]
+EGVP3;TURRET GATE;TURRET GATE;
+EGVP3;N051.08.43.000;W001.33.58.000;
