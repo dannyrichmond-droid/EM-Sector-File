@@ -109,6 +109,7 @@ F;em-military\airfield-layouts\EGXT.geo
 F;em-military\airfield-layouts\EGXW.geo
 F;em-military\airfield-layouts\EGUL.geo
 F;em-military\airfield-layouts\EGUN.geo
+F;em-military\airfield-layouts\EGVP.geo
 
 [FILLCOLOR]
 F;em-atc\coast.plf
@@ -128,6 +129,7 @@ F;em-military\airfield-layouts\EGXT.plf
 F;em-military\airfield-layouts\EGXW.plf
 F;em-military\airfield-layouts\EGUL.plf
 F;em-military\airfield-layouts\EGUN.plf
+F;em-military\airfield-layouts\EGVP.plf
 
 [MVAENR]
 F;em-nav\00DB.mva
